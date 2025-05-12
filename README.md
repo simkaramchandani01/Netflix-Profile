@@ -6,3 +6,4 @@ Uses Pandas, Matplotlib, Seaborn for:
 (2) Visualizations of user viewing habits
 (3) Insights into most watched shows/movies 
 
+PPT Attached provides all key insights. 
